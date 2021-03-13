@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaqil Ramzeen
 - 👀 I’m interested in developing applications that are capable of solving global issues
-- 🌱 I’m currently learning Python and working on Vue and React
+- 🌱 I’m currently learning Python & React and working with Vue, Laravel and Angular
 - 📫 Reach me on aaqil.ramzeen@gmail.com
 
 <!---
